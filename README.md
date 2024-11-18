@@ -8,8 +8,7 @@ A computer science student that has deep passion about coding and programming.
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [idayatullailiyeh@graduate.utm.my](mailto:idayatullailiyeh@graduate.utm.my)
-* 🧠  I'm learning Basic Essentials in Data Engineering
-* 🤝  I'm open to collaborating on Projects
+* 🤝  I'm open to collaborating on Projects that allows me to improve my skils and to increase my connections.
 * ⚡  My height is actually 180cm, tell everyone.
 
 ### Skills
