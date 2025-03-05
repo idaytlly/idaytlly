@@ -1,19 +1,13 @@
-Hi 👋 My name is IDA YATULLAILIYEH BINTI AMRUN
+Hi 👋 I'm Ida Yatullailiyeh 🪻
 =====================================================================================================================================================
-
-A Data Engineering Student
---------------------------
 
 A computer science student that has deep passion about coding and programming.
 
 * 🌍  I'm based in Malaysia
-* ✉  You can contact me at [idayatullailiyeh@graduate.utm.my](mailto:idayatullailiyeh@graduate.utm.my)
 * 🤝  I'm open to collaborating on Projects that allows me to improve my skils and to increase my connections.
 * ⚡  My E-Portfolio: https://idaytlly.github.io/#
 
 ### Skills
-
-
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 </p>
